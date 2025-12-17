@@ -2,10 +2,10 @@
   <img 
     src="https://github.com/user-attachments/assets/0130f009-e956-4d86-95c9-7174b3cab955"
     alt="Banner"
-    width="100%"
-    height="40%"
+    width="80%"
   />
 </p>
+
 
 <h1 align="center">Jericho Marcelo</h1>
 <h3 align="center">Software Engineer</h3>

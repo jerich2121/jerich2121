@@ -6,14 +6,14 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  💻 Coding Tutorials • 📚 Tech Articles • 🌍 Community Builder
+  💻 Learning Coding • 📚 Utilizing Updated Tools • 🌍 Community Builder
 </p>
 
 ---
 
 - 👨‍💻 Software Engineer
 - 🧠 Passionate about learning & teaching tech
-- 🛠️ Tools, tutorials, and real-world solutions
+- 🛠️ Tools and real-world solutions
 - 🤝 Helping developers grow through community
 
 ---

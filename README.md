@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  💻 Learning Coding • 📚 Utilizing Updated Tools • 🌍 Community Builder
+  💻 Software Development • 📚 Continuous Learning • 🌍 Community Builder
 </p>
 
 ---

@@ -31,11 +31,18 @@
 ---
 
 ## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3)
+![React](https://img.shields.io/badge/React-000?logo=react)
+![C%23](https://img.shields.io/badge/C%23-000?logo=csharp)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-000?logo=dotnet)
+![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
+![C++](https://img.shields.io/badge/C++-000?logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-000?logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
+![Git](https://img.shields.io/badge/Git-000?logo=git)
 
 ---
 

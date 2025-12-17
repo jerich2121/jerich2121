@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!-- BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="banner" />
 </p>
@@ -14,7 +11,6 @@
 
 ---
 
-## 🚀 About Me
 - 👨‍💻 Software Engineer
 - 🧠 Passionate about learning & teaching tech
 - 🛠️ Tools, tutorials, and real-world solutions

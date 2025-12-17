@@ -56,13 +56,6 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub" />
-</p>
-
----
-
 ## 💬 Community
 🚀 Join our Discord community  
 👉 https://discord.gg/programming

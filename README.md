@@ -65,7 +65,7 @@
 
 ## 💬 Community
 🚀 Join our Discord community  
-👉 https://discord.gg/yourinvite
+👉 https://discord.gg/programming
 
 ---
 

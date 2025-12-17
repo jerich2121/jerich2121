@@ -12,6 +12,7 @@
 
 ---
 🧑‍💻 About Me
+
 High-honor graduate with a strong foundation in software development, particularly in C# and web technologies. I have hands-on experience building applications, strong problem-solving skills, and a passion for creating real-world solutions in collaborative environments.
 
 - 👨‍💻 Software Engineer

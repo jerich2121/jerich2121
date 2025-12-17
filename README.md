@@ -1,5 +1,77 @@
 ## Hi there 👋
 
+<!-- BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="banner" />
+</p>
+
+<h1 align="center">Jericho Marcelo</h1>
+<h3 align="center">Software Engineer</h3>
+
+<p align="center">
+  💻 Coding Tutorials • 📚 Tech Articles • 🌍 Community Builder
+</p>
+
+---
+
+## 🚀 About Me
+- 👨‍💻 Software Engineer
+- 🧠 Passionate about learning & teaching tech
+- 🛠️ Tools, tutorials, and real-world solutions
+- 🤝 Helping developers grow through community
+
+---
+
+## 🌐 Socials
+<p>
+  <a href="https://facebook.com/yourprofile">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/yourprofile">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@yourchannel">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub" />
+</p>
+
+---
+
+## 💬 Community
+🚀 Join our Discord community  
+👉 https://discord.gg/yourinvite
+
+---
+
+⭐ If you like my work, consider following!
+
+
 <!--
 **jerich2121/jerich2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

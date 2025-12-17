@@ -11,11 +11,13 @@
 </p>
 
 ---
+🧑‍💻 About Me
+High-honor graduate with a strong foundation in software development, particularly in C# and web technologies. I have hands-on experience building applications, strong problem-solving skills, and a passion for creating real-world solutions in collaborative environments.
 
 - 👨‍💻 Software Engineer
-- 🧠 Passionate about learning & teaching tech
-- 🛠️ Tools and real-world solutions
-- 🤝 Helping developers grow through community
+- 🧠 Passionate about learning & teaching technology
+- 🛠️ Focused on practical, scalable solutions
+- 🤝 Actively involved in developer communities
 
 ---
 

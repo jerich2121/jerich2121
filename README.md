@@ -1,11 +1,10 @@
 <p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/0130f009-e956-4d86-95c9-7174b3cab955"
+  <img
+    src="https://github.com/user-attachments/assets/2b27321e-4e01-4a61-81f0-6d257eac5ce0"
     alt="Banner"
-    width="80%"
+    width="70%"
   />
 </p>
-
 
 <h1 align="center">Jericho Marcelo</h1>
 <h3 align="center">Software Engineer</h3>

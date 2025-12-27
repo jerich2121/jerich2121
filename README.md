@@ -3,8 +3,8 @@
     src="https://github.com/user-attachments/assets/2b27321e-4e01-4a61-81f0-6d257eac5ce0"
     alt="Banner"
     width="100%"
-    https://jerich2121.github.io/Professional-Portfolio/
   />
+    https://jerich2121.github.io/Professional-Portfolio/
 </p>
 
 <p align="center">

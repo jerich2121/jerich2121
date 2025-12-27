@@ -4,7 +4,7 @@
     alt="Banner"
     width="100%"
   />
-    https://jerich2121.github.io/Professional-Portfolio/
+    URL: https://jerich2121.github.io/Professional-Portfolio/
 </p>
 
 <p align="center">

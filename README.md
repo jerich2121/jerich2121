@@ -43,7 +43,6 @@ High-honor graduate with a strong foundation in software development, particular
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776ab)
 ![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=ed8b00)
 ![C%23](https://img.shields.io/badge/C%23-0f172a?style=for-the-badge&logo=c-sharp&logoColor=239120)
-![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=00599c)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-0f172a?style=for-the-badge&logo=dotnet&logoColor=512bd4)
 ![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479a1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47a248)

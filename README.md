@@ -7,6 +7,8 @@
     URL: https://jerich2121.github.io/Professional-Portfolio/
 </p>
 
+  My first Full Stack Project: https://shopsphere-3i7j.onrender.com/
+
 <p align="center">
   💻 Software Development • 📚 Continuous Learning • 🌍 Community Builder
 </p>

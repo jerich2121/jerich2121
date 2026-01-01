@@ -9,7 +9,7 @@
 <p align="center"> My First Full Stack Project: https://shopsphere-3i7j.onrender.com/ </p>
 
 <p align="center">
-  💻 Software Development • 📚 Continuous Learning • 🌍 Community Builder
+  💻 Web Development • 📚 Continuous Learning • 🌍 Community Builder
 </p>
 
 ---

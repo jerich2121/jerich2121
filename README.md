@@ -4,7 +4,7 @@
     alt="Banner"
     width="100%"
   />
-    URL: https://jericho-m.vercel.app/
+    Portfolio URL: https://jericho-m.vercel.app/
 </p>
 <p align="center"> My First Full Stack Project: https://shopsphere-3i7j.onrender.com/ </p>
 

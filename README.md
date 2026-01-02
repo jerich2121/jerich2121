@@ -1,8 +1,4 @@
   <p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/2b27321e-4e01-4a61-81f0-6d257eac5ce0"
-    alt="Banner"
-    width="100%"
   />
     Portfolio URL: https://jericho-m.vercel.app/
 </p>

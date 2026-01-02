@@ -10,7 +10,10 @@
 ---
 ## 🧑‍💻 About Me
 
-High-honor graduate with a strong foundation in software development, particularly in C# and web technologies. I have hands-on experience building applications, strong problem-solving skills, and a passion for creating real-world solutions in collaborative environments.
+High-honor graduate with a strong foundation in software development, using modern technologies like C# &
+ASP.NET(First Language), JavaScript, React, Node.js(Currently Using & Learning Everyday) with hands-on
+experience building applications. Eager to leverage strong problem-solving skills and a passion for technology to
+contribute to innovative projects in a collaborative environment.
 
 - 👨‍💻 Software Engineer
 - 🧠 Passionate about learning & teaching technology

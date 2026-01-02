@@ -1,7 +1,7 @@
 <p align="center">
     Portfolio URL: https://jericho-m.vercel.app/
 </p>
-<p align="center"> My First Full Stack Project: https://shopsphere-3i7j.onrender.com/ </p>
+<p align="center"> My Full Stack Project: https://shopsphere-3i7j.onrender.com/ </p>
 
 <p align="center">
   💻 Web Developer • 📚 Continuous Learning • 🌍 Community Builder

@@ -12,8 +12,7 @@
 
 High-honor graduate with a strong foundation in software development, using modern technologies like C# &
 ASP.NET(First Language), JavaScript, React, Node.js(Currently Using & Learning Everyday) with hands-on
-experience building applications. Eager to leverage strong problem-solving skills and a passion for technology to
-contribute to innovative projects in a collaborative environment.
+experience building applications.
 
 - 👨‍💻 Software Engineer
 - 🧠 Passionate about learning & teaching technology

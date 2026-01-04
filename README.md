@@ -1,5 +1,5 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%">
-<p align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<br><br>
     Portfolio URL: https://jericho-m.vercel.app/
 </p>
 <p align="center"> My Full Stack Project: https://shopsphere-3i7j.onrender.com/ </p>

@@ -15,9 +15,9 @@
 ---
 ## 🧑‍💻 About Me
 
-High-honor graduate with a strong foundation in software development, using modern technologies like C# &
-ASP.NET(First Language), JavaScript, React, Node.js(Currently Using & Learning Everyday) with hands-on
-experience building applications.
+Junior Software Engineer with experience building and deploying full-stack web applications using JavaScript, React,
+Node.js, and ASP.NET. Strong foundation in REST APIs, databases, and version control, with a focus on clean,
+maintainable code and teamwork.
 
 - 👨‍💻 Software Engineer
 - 🧠 Passionate about learning & teaching technology

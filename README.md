@@ -12,7 +12,9 @@
   💻 Web Developer • 📚 Continuous Learning • 🌍 Community Builder
 </p>
 <p align="center">
-- 🌱 Currently learning **TypeScript** and **Express.js**
+## 🌱 Currently Learning
+- TypeScript
+- Express.js
 </p>
 
 ---

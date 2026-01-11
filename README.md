@@ -11,10 +11,6 @@
 <p align="center">
   💻 Web Developer • 📚 Continuous Learning • 🌍 Community Builder
 </p>
-<p align="center">
-- 🌱 Currently learning TypeScript and Express.js
-
-</p>
 
 ---
 ## 🧑‍💻 About Me
@@ -27,6 +23,10 @@ maintainable code and teamwork.
 - 🧠 Passionate about learning & teaching technology
 - 🛠️ Focused on practical, scalable solutions
 - 🤝 Actively involved in developer communities
+
+## 🌱 Currently Learning
+- TypeScript
+- Express.js
 
 ---
 

@@ -24,9 +24,8 @@ maintainable code and teamwork.
 - 🤝 Actively involved in developer communities
 
 ## 🌱 Currently Learning
-- TypeScript
-- Express.js
-
+- Next.js
+- 
 ---
 
 ## 🌐 Socials

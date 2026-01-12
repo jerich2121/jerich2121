@@ -25,7 +25,7 @@ maintainable code and teamwork.
 
 ## 🌱 Currently Learning
 - Next.js
-- 
+
 ---
 
 ## 🌐 Socials

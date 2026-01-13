@@ -24,7 +24,7 @@ maintainable code and teamwork.
 - 🤝 Actively involved in developer communities
 
 ## 🌱 Currently Learning
-- Next.js
+- ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 
 ---
 

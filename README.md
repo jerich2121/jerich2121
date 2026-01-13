@@ -25,6 +25,7 @@ maintainable code and teamwork.
 
 ## 🌱 Currently Learning
 ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+
 ---
 
 ## 🌐 Socials

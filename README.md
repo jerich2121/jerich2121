@@ -15,7 +15,7 @@
 ---
 ## 🧑‍💻 About Me
 
-Junior Software Engineer with experience building and deploying full-stack web applications using JavaScript, React, and Express.js. Strong foundation in REST APIs, databases, and version control, with a focus on clean,
+Junior Software Engineer with experience building and deploying full-stack web applications using JavaScript, React, and Express.js. Strong foundation in REST APIs, databases, and version control, with a focus on clean, UP
 maintainable code and teamwork.
 
 - 👨‍💻 Software Engineer

@@ -25,6 +25,7 @@ maintainable code and teamwork.
 
 ## 🌱 Currently Learning
 ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ed)
 
 ---
 
@@ -51,7 +52,6 @@ maintainable code and teamwork.
 ![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479a1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47a248)
 ![Prisma](https://img.shields.io/badge/Prisma-0f172a?style=for-the-badge&logo=prisma&logoColor=2d3748)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ed)
 
 ---
 

@@ -1,4 +1,8 @@
 <p align="center">
+<img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFsM25veGo5eHRtaTdpd3FzZjk4NXpuN3RmOHJqeTdxaDdjNWxxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tELArYrjvRPb6Q7yeG/giphy.gif)" width="500">
+</p>
+
+<p align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 </p>
 

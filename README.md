@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://giphy.com/stickers/devrock-edr-escueladevrock-no-de-eNAsjO55tPbgaor7ma" width="500">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9zY3F6aXYyNTBycmI1NjZzaDczMml4eDV1OHM4MHJxbW82OHpwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="200">
 </p>
 
 <p align="center">

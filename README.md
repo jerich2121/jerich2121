@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Jericho 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer | Tech Educator | Open Source Contributor</strong>
+  <strong>Software Engineer | Full-Stack Developer | Community Builder</strong>
 </p>
 
 <p align="center">
@@ -18,11 +18,12 @@
 
 ## 🧑‍💻 About Me
 
-Junior Software Engineer with a passion for building clean, maintainable full-stack applications and democratizing high-level tech education.
+Junior Software Engineer with 1 year of experience building and deploying full-stack web applications. I focus on writing clean, maintainable code and collaborating within team environments to solve complex problems.
 
-- 🎓 **Mission:** Curating world-class CS resources from MIT, Stanford, and Harvard.
-- 🧠 **Tech:** Specialized in JavaScript, React, and Express.js.
-- 🤝 **Community:** Actively building and helping in developer communities.
+- 🛠️ **Experience:** Building responsive web apps using JavaScript, React, and Express.js.
+- 🧠 **Focus:** Strong foundation in REST APIs, Database Management, and Version Control.
+- 🤝 **Collaboration:** Passionate about teamwork and contributing to open-source projects.
+- 📚 **Growth:** Dedicated to continuous learning and staying updated with modern tech stacks.
 
 ---
 
@@ -57,7 +58,7 @@ Junior Software Engineer with a passion for building clean, maintainable full-st
   </a>
 </p>
 
-**Don't forget to hit the "Follow" button to get notified when I drop new CS learning paths! 🚀**
+**Don't forget to hit the "Follow" button to stay updated with my latest projects! 🚀**
 
 <!--
 <p align="center">

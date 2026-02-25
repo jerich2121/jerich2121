@@ -23,7 +23,7 @@ Junior Software Engineer with 1 year of experience building full-stack web appli
 ---
 
 ## 🌟 Featured Resource
-### 📚 [The Ultimate Computer Science Roadmap](https://github.com/jerich2121)
+### 📚 [The Ultimate Computer Science Roadmap](https://github.com/jerich2121/cs-video-courses)
 > **Star this repo!** A curated collection of world-class Computer Science courses and video lectures from top-tier universities—all in one place.
 
 ---

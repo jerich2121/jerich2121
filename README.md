@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd6b3FsMWEzbHYwcWs2ZGhiM3pkYWJ3d2Nndm5ybjh5b3QzeHcweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SNNzdy4wsqz7rFGPkH/giphy.gif" width="160">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd6b3FsMWEzbHYwcWs2ZGhiM3pkYWJ3d2Nndm5ybjh5b3QzeHcweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SNNzdy4wsqz7rFGPkH/giphy.gif" width="240">
 </p>
 
 <h1 align="center">Hi, I'm Jericho 👋</h1>

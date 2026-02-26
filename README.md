@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="400">
+ <img width="2000" height="400" alt="logo4 2" src="https://github.com/user-attachments/assets/1f0c4523-91aa-4358-b677-848449f7b45d" />
 </p>
 
 <p align="center">

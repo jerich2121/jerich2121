@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-Web Developer with 1 year of experience, focused on writing clean, scalable code and using AI tools to boost productivity while keeping all development decisions fully under my control. 🇵🇭
+Web Developer with 1 year of experience, focused on writing clean, scalable code and using AI tools to boost productivity while keeping all development decisions fully under my control.
 
 ---
 

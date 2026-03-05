@@ -84,8 +84,6 @@ I use AI tools to **empower my development process**:
   </a>
 </p>
 
----
-
 <!--
 <p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVtZHJ1OWIyaHp0azAwdjdmbWEwMjV1c2huOHdxOWxxdzJxbjAzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/XH9wwXfUXu91wAJwN5/giphy.gif" width="200">

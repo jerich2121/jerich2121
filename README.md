@@ -14,15 +14,15 @@
 
 ## 🧑‍💻 About Me
 
-Full-Stack Developer with ~1 year of experience building modern web applications.
+Full-Stack Developer with ~1 year of experience building modern web applications.  
 
-I specialize in creating scalable web systems using JavaScript technologies and integrating **AI-assisted development workflows** to accelerate prototyping, debugging, and productivity.
+I focus on **writing clean, maintainable code**, building scalable systems, and continuously improving my skills. I also leverage **AI-assisted tools** in my workflow to speed up prototyping, debugging, and learning — while keeping all design and implementation decisions fully developer-driven.
 
 **Focus Areas**
 - Full-stack web applications  
-- Clean and maintainable code  
-- API development  
-- AI-assisted engineering workflows  
+- REST API development  
+- Scalable databases  
+- AI-assisted workflow for productivity  
 
 ---
 
@@ -31,7 +31,8 @@ I specialize in creating scalable web systems using JavaScript technologies and 
 ### 📚 Ultimate Computer Science Roadmap
 [CS Video Courses](https://github.com/jerich2121/cs-video-courses)
 
-A curated collection of high-quality Computer Science courses and lectures from top universities.  
+A curated collection of world-class Computer Science courses and video lectures from top universities — all in one place.  
+
 ⭐ Star the repo if you find it helpful!
 
 ---
@@ -52,23 +53,23 @@ A curated collection of high-quality Computer Science courses and lectures from 
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Learning
 
 ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ed)
 
 ---
 
-## 🧠 Development Philosophy
+## 🧠 AI-Assisted Workflow
 
-I combine **strong engineering fundamentals** with AI-assisted workflows to:
+I use AI tools to **empower my development process**:
 
-- Debug and analyze code faster  
-- Rapidly prototype features  
-- Explore architecture ideas  
-- Improve overall productivity  
+- Debugging and code explanation  
+- Rapid prototyping  
+- Architecture brainstorming  
+- Documentation and README drafting  
 
-All final design and implementation decisions are **developer-driven**.
+> AI assists my workflow, but all development decisions are fully **developer-driven**.
 
 ---
 
@@ -84,12 +85,6 @@ All final design and implementation decisions are **developer-driven**.
 </p>
 
 ---
-
-## 📊 GitHub Stats (Optional)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerich2121&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerich2121&layout=compact&theme=tokyonight)
 
 <!--
 <p align="center">

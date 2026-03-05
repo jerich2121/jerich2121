@@ -14,9 +14,9 @@
 
 ## 🧑‍💻 About Me
 
-Full-Stack Developer with ~1 year of experience building modern web applications.  
+Full-Stack Developer with 1 year of experience building modern web applications.  
 
-I focus on **writing clean, maintainable code**, building scalable systems, and continuously improving my skills. I also leverage **AI-assisted tools** in my workflow to speed up prototyping, debugging, and learning — while keeping all design and implementation decisions fully developer-driven.
+I write clean, scalable code and use AI tools to boost productivity while driving all development decisions myself.
 
 **Focus Areas**
 - Full-stack web applications  

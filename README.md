@@ -64,15 +64,6 @@ I integrate AI at every stage of my development process:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerich2121&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f172a" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerich2121&layout=compact&theme=github_dark&hide_border=true&bg_color=0f172a" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p>

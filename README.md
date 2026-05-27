@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-Summa Cum Laude BSIT graduate (GWA 1.17) from AMA Computer College with hands-on experience building full-stack web applications and premium, cinematic websites. Founder of **Kryntix Studio** — a modern creative web development and design studio. Passionate about clean, scalable code and leveraging AI-assisted workflows to build smarter and faster.
+Summa Cum Laude BSIT graduate (GWA 1.17) from AMA University with hands-on experience building full-stack web applications and premium, cinematic websites. Founder of **Kryntix Studio** — a modern creative web development and design studio. Passionate about clean, scalable code and leveraging AI-assisted workflows to build smarter and faster.
 
 ---
 

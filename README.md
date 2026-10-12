@@ -16,7 +16,6 @@
   <a href="https://kryntixstudio.com/">KRYNTIX STUDIO</a> &nbsp;·&nbsp;
   <a href="https://kryntixvault.com/">KRYNTIX VAULT</a> &nbsp;·&nbsp;
   <a href="https://www.instagram.com/kryntixstudio/">INSTAGRAM</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/jericho-marcelo-196b0b21b/">LINKEDIN</a>
 </p>
 
 ---
@@ -107,9 +106,6 @@ A growing collection of resources and tools designed to help developers build be
 
 [Explore the project](https://iron-man-lovat.vercel.app/)
 
-**CLYD1E Portfolio** — A cinematic esports portfolio combining bold visual design and GSAP-powered scroll animations.
-
-[Explore the project](https://clyd1e.vercel.app/)
 
 ---
 

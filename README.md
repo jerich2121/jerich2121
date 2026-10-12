@@ -1,82 +1,158 @@
+# Jericho Marcelo
+
 <p align="center">
-  <img width="2000" height="400" alt="logo4 2" src="https://github.com/user-attachments/assets/1f0c4523-91aa-4358-b677-848449f7b45d" />
+  <img width="100%" alt="Kryntix Studio" src="https://github.com/user-attachments/assets/1f0c4523-91aa-4358-b677-848449f7b45d" />
 </p>
 
 <p align="center">
-  <strong>Full-Stack Web Developer • AI-Empowered Developer • Founder of Kryntix Studio</strong>
+  <strong>Founder of Kryntix Studio · Full-Stack Developer · Creative Technologist</strong>
 </p>
 
 <p align="center">
-  🌐 Portfolio: <a href="https://jericho-m.vercel.app/">jericho-m.vercel.app</a>
+  Building digital experiences where design, motion, and technology meet.
+</p>
+
+<p align="center">
+  <a href="https://kryntixstudio.com/">KRYNTIX STUDIO</a> &nbsp;·&nbsp;
+  <a href="https://kryntixvault.com/">KRYNTIX VAULT</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/kryntixstudio/">INSTAGRAM</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/jericho-marcelo-196b0b21b/">LINKEDIN</a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-Summa Cum Laude BSIT graduate (GWA 1.17) from AMA University with hands-on experience building full-stack web applications and premium, cinematic websites. Founder of **Kryntix Studio** — a modern creative web development and design studio. Passionate about clean, scalable code and leveraging AI-assisted workflows to build smarter and faster.
+I'm Jericho Marcelo, founder of **Kryntix Studio**, a creative web design and development studio focused on building distinctive digital experiences for brands, businesses, and ambitious ideas.
 
----
+My work combines modern web technologies, thoughtful UI/UX, cinematic motion, and interactive 3D to create websites that go beyond the ordinary.
 
-## 🛠 Tech Stack
+Alongside creative development, I build full-stack applications with a focus on clean architecture, maintainability, performance, and scalable systems. I also integrate AI into my workflow to accelerate development, explore ideas, and solve complex problems more efficiently.
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
-![GSAP](https://img.shields.io/badge/GSAP-0f172a?style=for-the-badge&logo=greensock&logoColor=88ce02)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169e1)
-![Prisma](https://img.shields.io/badge/Prisma-0f172a?style=for-the-badge&logo=prisma&logoColor=ffffff)
-![JWT](https://img.shields.io/badge/JWT-0f172a?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ed)
+- **Studio:** [Kryntix Studio](https://kryntixstudio.com/)
+- **Digital products:** [Kryntix Vault](https://kryntixvault.com/)
+- **Education:** BS Information Technology, Summa Cum Laude — GWA 1.17
+- **Interests:** Creative development, WebGL, interactive 3D, AI-assisted engineering, and modern web architecture
 
 ---
 
-## 🤖 AI-Empowered Workflow
+## What I Do
 
-I integrate AI at every stage of my development process:
-
-- 🧠 **Prompt Engineering** — crafting precise prompts for code generation and problem solving
-- ⚡ **Rapid Prototyping** — scaffolding and iterating faster with AI assistance
-- 🔍 **AI-Assisted Debugging** — diagnosing issues and optimizing logic with LLM support
-- 🔗 **LLM Integration** — embedding Gemini/OpenRouter AI features directly into products
-- 🏗 **Architecture Brainstorming** — using AI as a thought partner for system design
-
-> AI accelerates my workflow — all decisions remain fully developer-driven.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [ShopSphere](https://shopsphere-teal.vercel.app/) | Full-stack e-commerce platform with JWT auth, Prisma ORM, and REST APIs | React, Node.js, PostgreSQL |
-| [Worldwide Sapporo](https://sapporo-one.vercel.app/) | Product catalog with admin panel, AI chatbot, and JWT auth | React, TypeScript, Express |
-| [Val-SKonnect](https://val-skonnect.vercel.app/) | Citizen services platform connecting locals with government services | TypeScript, PostgreSQL |
-| [CLYD1E Portfolio](https://clyd1e.vercel.app/) | Cinematic esports portfolio with GSAP scroll animations | Next.js, GSAP, Tailwind CSS |
-| [Iron Man Mk. LXXXV](https://iron-man-lovat.vercel.app/) | Scroll-driven cinematic fan site with frame animation and HUD UI | Next.js, Framer Motion, Lenis |
+| Area | Focus |
+|---|---|
+| Creative Web Development | Cinematic websites, scroll-driven experiences, and interactive interfaces |
+| UI/UX & Web Design | Premium visual systems, typography, layouts, and responsive design |
+| 3D & Motion | Three.js, React Three Fiber, shaders, GSAP, and Framer Motion |
+| Full-Stack Engineering | APIs, authentication, databases, and scalable web applications |
+| AI-Empowered Development | AI-assisted coding, rapid prototyping, debugging, and LLM integrations |
+| Digital Products | Developer resources, reusable UI components, and creative development tools |
 
 ---
 
-## 🌐 Connect With Me
+## Tech Stack
+
+### Frontend & Creative Development
 
 <p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,figma&theme=dark" alt="Frontend technologies" />
+</p>
+
+- **Animation:** GSAP, Framer Motion, Lenis
+- **3D & Graphics:** Three.js, React Three Fiber, GLSL shaders
+- **UI:** Tailwind CSS, responsive design, modern component systems
+
+### Backend & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase,docker,git,github,vercel&theme=dark" alt="Backend and infrastructure technologies" />
+</p>
+
+- **APIs & Security:** REST APIs, JWT authentication, Zod
+- **Databases:** PostgreSQL, MySQL, Prisma ORM
+- **Deployment & Tooling:** Docker, Git, GitHub Actions, Vercel
+
+### AI-Empowered Workflow
+
+I use AI as an engineering tool throughout the development process, from planning and architecture to implementation and debugging.
+
+- AI-assisted development and code generation
+- Architecture exploration and technical problem-solving
+- Rapid prototyping and iterative UI development
+- LLM-powered product features and integrations
+- Developer tooling and workflow automation
+
+AI helps me move faster, while engineering judgment, testing, and code quality remain essential.
+
+---
+
+## Selected Work
+
+### Kryntix Studio
+**Creative Web Design & Development**
+
+A creative studio focused on modern websites, distinctive digital identities, immersive motion, and interactive experiences.
+
+[Visit kryntixstudio.com](https://kryntixstudio.com/)
+
+### Kryntix Vault
+**Digital Products for Developers**
+
+A growing collection of resources and tools designed to help developers build better digital experiences and work more efficiently.
+
+[Explore Kryntix Vault](https://kryntixvault.com/)
+
+### Creative Development Experiments
+
+**Iron Man Mk. LXXXV** — A cinematic fan experience featuring scroll-driven frame animation, futuristic interface elements, and immersive storytelling.
+
+[Explore the project](https://iron-man-lovat.vercel.app/)
+
+**CLYD1E Portfolio** — A cinematic esports portfolio combining bold visual design and GSAP-powered scroll animations.
+
+[Explore the project](https://clyd1e.vercel.app/)
+
+### Full-Stack Applications
+
+**ShopSphere** — An e-commerce application featuring JWT authentication, REST APIs, and Prisma-powered data management.
+
+[Explore ShopSphere](https://shopsphere-teal.vercel.app/)
+
+**Worldwide Sapporo** — A product catalog platform featuring an admin panel, AI chatbot, and authentication.
+
+[Explore Worldwide Sapporo](https://sapporo-one.vercel.app/)
+
+---
+
+## Beyond the Code
+
+I believe great websites should do more than function. They should communicate a brand's identity, create memorable experiences, and make people feel something.
+
+I'm especially interested in the intersection of creative development and engineering: where animation meets interaction, design meets performance, and emerging AI tools expand what's possible on the web.
+
+Currently exploring more advanced WebGL experiences, interactive 3D, shader-based visuals, and AI-powered development workflows.
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://kryntixstudio.com/">
+    <img src="https://img.shields.io/badge/Kryntix_Studio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Kryntix Studio" />
+  </a>
+  <a href="https://kryntixvault.com/">
+    <img src="https://img.shields.io/badge/Kryntix_Vault-111111?style=for-the-badge&logo=github&logoColor=white" alt="Kryntix Vault" />
+  </a>
+  <a href="https://www.instagram.com/kryntixstudio/">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://www.linkedin.com/in/jericho-marcelo-196b0b21b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jerichovincent20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.facebook.com/jerich2121/">
-    <img src="https://img.shields.io/badge/Facebook-0f172a?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
-  </a>
-  <a href="https://www.instagram.com/jerich2121/">
-    <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-  </a>
+</p>
+
+<p align="center">
+  <sub>Design with intent. Build with precision.</sub>
 </p>

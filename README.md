@@ -1,5 +1,3 @@
-# Jericho Marcelo
-
 <p align="center">
   <img width="100%" alt="Kryntix Studio" src="https://github.com/user-attachments/assets/1f0c4523-91aa-4358-b677-848449f7b45d" />
 </p>

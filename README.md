@@ -131,9 +131,6 @@ Currently exploring more advanced WebGL experiences, interactive 3D, shader-base
   <a href="https://www.instagram.com/kryntixstudio/">
     <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/jericho-marcelo-196b0b21b/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:jerichovincent20@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>

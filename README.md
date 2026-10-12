@@ -111,16 +111,6 @@ A growing collection of resources and tools designed to help developers build be
 
 [Explore the project](https://clyd1e.vercel.app/)
 
-### Full-Stack Applications
-
-**ShopSphere** — An e-commerce application featuring JWT authentication, REST APIs, and Prisma-powered data management.
-
-[Explore ShopSphere](https://shopsphere-teal.vercel.app/)
-
-**Worldwide Sapporo** — A product catalog platform featuring an admin panel, AI chatbot, and authentication.
-
-[Explore Worldwide Sapporo](https://sapporo-one.vercel.app/)
-
 ---
 
 ## Beyond the Code
